@@ -16,7 +16,7 @@ Free, simplified Excel project finance model sample from RVI’s **Excel DNA for
 ## 📖 Learn More
 
 - **Excel DNA for Project Finance Modeling**  
-  [Full tutorial & course](https://courses.renewablesvaluationinstitute.com/pages/academy/excel-dna-for-project-finance-modeling)  
+  [Full tutorial & course](https://courses.renewablesvaluationinstitute.com/excel-dna-for-project-finance-modeling)  
   Step-by-step guide to building this model and mastering essential Excel techniques.
 
 ---
